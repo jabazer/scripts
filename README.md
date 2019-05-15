@@ -3,7 +3,7 @@ Ejemplos de programas en cvxpy a probar en clase
 
 Paso 1 - Seguir el siguiente link
 https://mybinder.org/v2/gh/opf-ute/scripts/master
-Esperar que cargue la máquina ve¡irtual de mybinder
+Esperar que cargue la máquina virtual de mybinder (puede demorar un poco)
 
 Paso 2 - Seleccionar un archivo con terminación ipynb, por ejemplo 
 abastecimiento_demanda_CVXPY.ipynb
